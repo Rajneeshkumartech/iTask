@@ -6,6 +6,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: "/iTask/",
   plugins: [react(),   tailwindcss(),],
-  server: {
-    host: true,},
+  // server: {
+  //   host: true,},
 })
