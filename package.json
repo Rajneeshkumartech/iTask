@@ -1,7 +1,6 @@
 {
   "name": "to-do-web",
   "private": true,
-  "homepage": "https://rajneeshkumartech.github.io/iTask/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
