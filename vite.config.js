@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/iTask/",
   plugins: [react(),   tailwindcss(),],
+  base: "/iTask",
   // server: {
   //   host: true,},
 })
